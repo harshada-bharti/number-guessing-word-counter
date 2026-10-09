@@ -1,0 +1,3 @@
+Python is fun and Python is useful.
+Learning Python helps you build projects.
+This word counter counts words and word frequency.
